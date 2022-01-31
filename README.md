@@ -12,7 +12,7 @@ Just because I saw this in a facebook post that said to type one bengali word th
 
 ## How?
 
-So I got a list of all the Bengali words from [MinhasKamal/BengaliDictionary](https://github.com/MinhasKamal/BengaliDictionary) (:love: Thanks Minhas Kamal) and then wrote a script that goes through each line in the text file and then if the line does not contain any vowel then it save that line to the output file. Pretty simple.
+So I got a list of all the Bengali words from [MinhasKamal/BengaliDictionary](https://github.com/MinhasKamal/BengaliDictionary) (🤍 Thanks Minhas Kamal) and then wrote a script that goes through each line in the text file and then if the line does not contain any vowel then it save that line to the output file. Pretty simple.
 
 ## Installation
 
