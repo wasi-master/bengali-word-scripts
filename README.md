@@ -24,7 +24,7 @@ Just run the python file.
 
 ## License
 
-The project is licenses [GPL-v3](https://www.gnu.org/licenses/gpl-3.0.en.html "The GNU General Public License is a free, copyleft license for software and other kinds of works. The licenses for most software and other practical works")
+The project is licensed [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html "The GNU General Public License is a free, copyleft license for software and other kinds of works. The licenses for most software and other practical works")
 
 ## Contributing
 
