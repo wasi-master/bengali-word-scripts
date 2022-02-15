@@ -4,7 +4,7 @@
 
 ## What?
 
-Bengali is a language spoken by over 220 million people and is also my mother language. This repository contains a word list of all bengali words and a script that generates a list of the words that do not contain vowels. This is possible because in bengali, vowel-less words generally make the O sound, so mn would mean mon and lbn would mean lobon.
+Bengali is a language spoken by over 220 million people and is also my mother language. This repository contains a word list of all bengali words and this folder contains a script that generates a list of the words that do not contain vowels. This is possible because in bengali, vowel-less words generally make the O sound, so mn would mean mon and lbn would mean lobon.
 
 ## Why?
 
@@ -32,4 +32,4 @@ If you think something can be improved, be sure to open a pull request or issue 
 
 ## Contact
 
-If you need to contact me for some reason conside emailing me at [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com)
+If you need to contact me for some reason consider emailing me at [arianmollik323@gmail.com](mailto:arianmollik323@gmail.com)
